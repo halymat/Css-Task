@@ -1,0 +1,88 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: sans-serif;
+    margin: 50px auto;
+}
+
+h1 {
+    font-size: 18px;
+}
+
+.sect_one {
+    margin: 50px auto;
+    padding: 20px;
+    background-color: gainsboro;
+    width: 80%
+}
+
+.sect_one h3 {
+    font-size: 18px;
+    color: whitesmoke;
+    padding: 10px;
+}
+
+.sect_one p {
+    font-size: 14px;
+    color: green;
+    /* width: 50%; */
+    font-style: italic;
+    font-weight: bold;
+    padding-left: 10px;
+}
+
+.sect_two {
+    margin: 50px auto;
+    padding: 20px;
+    background-color: black;
+    width: 80%
+}
+
+.sect_two h3 {
+    font-size: 18px;
+    color: aliceblue;
+    padding: 10px;
+}
+
+.sect_two p {
+    font-size: 14px;
+    color: red;
+    /* width: 50%; */
+    font-style: italic;
+    font-weight: bold;
+    padding-left: 10px;
+}
+
+.sect_three {
+    margin: 50px auto;
+    padding: 20px;
+    background-color: black;
+    width: 80%
+}
+
+.sect_three h3 {
+    font-size: 18px;
+    color: aliceblue;
+    padding: 10px;
+}
+
+.sect_three p {
+    font-size: 14px;
+    color: blue;
+    /* width: 50%; */
+    font-style: italic;
+    font-weight: bold;
+    padding-left: 10px;
+    padding: 5px;
+    line-height: 25px;
+}
+
+span {
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+}
